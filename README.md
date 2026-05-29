@@ -46,7 +46,8 @@ The system was customized and deployed using WordPress and a commercial school m
 
 ## Screenshots
 
-screenshots/screenshots
+wordpress-school-management-system/screenshots
+/screenshots/
 
 ---
 
